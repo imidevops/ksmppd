@@ -166,8 +166,10 @@ All scenarios will allow ESME's to authenticate as normal, unless the database i
 * The system first starts, connects to bearerbox and allows connections from ESMEs. Once started it begins reprocessing bearerbox queues if any.
 * Once ESME's reconnect - their queued messages (in database) will begin being reprocessed.
 
-## My Contributions
-Management.md
+## 📌 My Contributions
+
+I maintain a dedicated record of my project management tasks, enhancements, and fixes.  
+👉 Check here: [MANAGEMENT.md](./MANAGEMENT.md)
 
 
 
