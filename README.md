@@ -169,7 +169,7 @@ All scenarios will allow ESME's to authenticate as normal, unless the database i
 ## 📌 My Contributions
 
 I maintain a dedicated record of my project management tasks, enhancements, and fixes.  
-👉 Check here: [MANAGEMENT.md](./MANAGEMENT.md)
+👉 Check here: [Management.md](./Management.md)
 
 
 
